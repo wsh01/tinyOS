@@ -1,0 +1,15 @@
+.\objects\tsem.o: source\tSem.c
+.\objects\tsem.o: source\tSem.h
+.\objects\tsem.o: source\tEvent.h
+.\objects\tsem.o: source\tTask.h
+.\objects\tsem.o: source\tLib.h
+.\objects\tsem.o: D:\keilMDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tsem.o: source\tinyOS.h
+.\objects\tsem.o: source\tConfig.h
+.\objects\tsem.o: source\tMbox.h
+.\objects\tsem.o: source\tMemBlock.h
+.\objects\tsem.o: source\tFlagGroup.h
+.\objects\tsem.o: source\tMutex.h
+.\objects\tsem.o: source\tTimer.h
+.\objects\tsem.o: source\tHooks.h
+.\objects\tsem.o: source\tinyOS.h

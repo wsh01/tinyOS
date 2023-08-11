@@ -1,0 +1,236 @@
+Dependencies for Project 'tinyos', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\source\switch.c)(0x64ACDA2A)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\switch.o --omf_browse .\objects\switch.crf --depend .\objects\switch.d)
+I (source\tinyOS.h)(0x64CCB7F4)
+I (D:\keilMDK\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (source\tLib.h)(0x64AD2183)
+I (source\tConfig.h)(0x64CCB7F4)
+I (source\tEvent.h)(0x64C8B61D)
+I (source\tTask.h)(0x64CB9898)
+I (source\tSem.h)(0x64B9587C)
+I (source\tMbox.h)(0x64C61701)
+I (source\tMemBlock.h)(0x64C75056)
+I (source\tFlagGroup.h)(0x64C89989)
+I (source\tMutex.h)(0x64C9CF0E)
+I (source\tTimer.h)(0x64CC8AC5)
+I (source\tHooks.h)(0x64CF17F1)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x5E8ED12C)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8ED122)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8ED122)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x5E8ED12C)
+F (.\source\main.c)(0x64CF17E0)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (source\tinyOS.h)(0x64CCB7F4)
+I (D:\keilMDK\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (source\tLib.h)(0x64AD2183)
+I (source\tConfig.h)(0x64CCB7F4)
+I (source\tEvent.h)(0x64C8B61D)
+I (source\tTask.h)(0x64CB9898)
+I (source\tSem.h)(0x64B9587C)
+I (source\tMbox.h)(0x64C61701)
+I (source\tMemBlock.h)(0x64C75056)
+I (source\tFlagGroup.h)(0x64C89989)
+I (source\tMutex.h)(0x64C9CF0E)
+I (source\tTimer.h)(0x64CC8AC5)
+I (source\tHooks.h)(0x64CF17F1)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x5E8ED12C)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8ED122)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8ED122)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x5E8ED12C)
+F (.\source\tBitmap.c)(0x64AC13B5)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\tbitmap.o --omf_browse .\objects\tbitmap.crf --depend .\objects\tbitmap.d)
+I (source\tLib.h)(0x64AD2183)
+I (D:\keilMDK\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+F (.\source\tList.c)(0x64AE6F0A)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\tlist.o --omf_browse .\objects\tlist.crf --depend .\objects\tlist.d)
+I (source\tLib.h)(0x64AD2183)
+I (D:\keilMDK\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+F (.\source\tTask.c)(0x64CF17E0)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\ttask.o --omf_browse .\objects\ttask.crf --depend .\objects\ttask.d)
+I (source\tinyOS.h)(0x64CCB7F4)
+I (D:\keilMDK\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (source\tLib.h)(0x64AD2183)
+I (source\tConfig.h)(0x64CCB7F4)
+I (source\tEvent.h)(0x64C8B61D)
+I (source\tTask.h)(0x64CB9898)
+I (source\tSem.h)(0x64B9587C)
+I (source\tMbox.h)(0x64C61701)
+I (source\tMemBlock.h)(0x64C75056)
+I (source\tFlagGroup.h)(0x64C89989)
+I (source\tMutex.h)(0x64C9CF0E)
+I (source\tTimer.h)(0x64CC8AC5)
+I (source\tHooks.h)(0x64CF17F1)
+F (.\source\tTime.c)(0x64AFC379)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\ttime.o --omf_browse .\objects\ttime.crf --depend .\objects\ttime.d)
+I (source\tinyOS.h)(0x64CCB7F4)
+I (D:\keilMDK\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (source\tLib.h)(0x64AD2183)
+I (source\tConfig.h)(0x64CCB7F4)
+I (source\tEvent.h)(0x64C8B61D)
+I (source\tTask.h)(0x64CB9898)
+I (source\tSem.h)(0x64B9587C)
+I (source\tMbox.h)(0x64C61701)
+I (source\tMemBlock.h)(0x64C75056)
+I (source\tFlagGroup.h)(0x64C89989)
+I (source\tMutex.h)(0x64C9CF0E)
+I (source\tTimer.h)(0x64CC8AC5)
+I (source\tHooks.h)(0x64CF17F1)
+F (.\source\tCpu.c)(0x64AFC379)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\tcpu.o --omf_browse .\objects\tcpu.crf --depend .\objects\tcpu.d)
+I (source\tinyOS.h)(0x64CCB7F4)
+I (D:\keilMDK\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (source\tLib.h)(0x64AD2183)
+I (source\tConfig.h)(0x64CCB7F4)
+I (source\tEvent.h)(0x64C8B61D)
+I (source\tTask.h)(0x64CB9898)
+I (source\tSem.h)(0x64B9587C)
+I (source\tMbox.h)(0x64C61701)
+I (source\tMemBlock.h)(0x64C75056)
+I (source\tFlagGroup.h)(0x64C89989)
+I (source\tMutex.h)(0x64C9CF0E)
+I (source\tTimer.h)(0x64CC8AC5)
+I (source\tHooks.h)(0x64CF17F1)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x5E8ED12C)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8ED122)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8ED122)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x5E8ED12C)
+F (.\source\app.c)(0x64CCB11A)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\app.o --omf_browse .\objects\app.crf --depend .\objects\app.d)
+I (source\tinyOS.h)(0x64CCB7F4)
+I (D:\keilMDK\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (source\tLib.h)(0x64AD2183)
+I (source\tConfig.h)(0x64CCB7F4)
+I (source\tEvent.h)(0x64C8B61D)
+I (source\tTask.h)(0x64CB9898)
+I (source\tSem.h)(0x64B9587C)
+I (source\tMbox.h)(0x64C61701)
+I (source\tMemBlock.h)(0x64C75056)
+I (source\tFlagGroup.h)(0x64C89989)
+I (source\tMutex.h)(0x64C9CF0E)
+I (source\tTimer.h)(0x64CC8AC5)
+I (source\tHooks.h)(0x64CF17F1)
+F (.\source\tEvent.c)(0x64C9D412)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\tevent.o --omf_browse .\objects\tevent.crf --depend .\objects\tevent.d)
+I (source\tinyOS.h)(0x64CCB7F4)
+I (D:\keilMDK\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (source\tLib.h)(0x64AD2183)
+I (source\tConfig.h)(0x64CCB7F4)
+I (source\tEvent.h)(0x64C8B61D)
+I (source\tTask.h)(0x64CB9898)
+I (source\tSem.h)(0x64B9587C)
+I (source\tMbox.h)(0x64C61701)
+I (source\tMemBlock.h)(0x64C75056)
+I (source\tFlagGroup.h)(0x64C89989)
+I (source\tMutex.h)(0x64C9CF0E)
+I (source\tTimer.h)(0x64CC8AC5)
+I (source\tHooks.h)(0x64CF17F1)
+F (.\source\tSem.c)(0x64CCAE92)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\tsem.o --omf_browse .\objects\tsem.crf --depend .\objects\tsem.d)
+I (source\tSem.h)(0x64B9587C)
+I (source\tEvent.h)(0x64C8B61D)
+I (source\tTask.h)(0x64CB9898)
+I (source\tLib.h)(0x64AD2183)
+I (D:\keilMDK\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (source\tinyOS.h)(0x64CCB7F4)
+I (source\tConfig.h)(0x64CCB7F4)
+I (source\tMbox.h)(0x64C61701)
+I (source\tMemBlock.h)(0x64C75056)
+I (source\tFlagGroup.h)(0x64C89989)
+I (source\tMutex.h)(0x64C9CF0E)
+I (source\tTimer.h)(0x64CC8AC5)
+I (source\tHooks.h)(0x64CF17F1)
+F (.\source\tMbox.c)(0x64CCAE92)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\tmbox.o --omf_browse .\objects\tmbox.crf --depend .\objects\tmbox.d)
+I (source\tinyOS.h)(0x64CCB7F4)
+I (D:\keilMDK\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (source\tLib.h)(0x64AD2183)
+I (source\tConfig.h)(0x64CCB7F4)
+I (source\tEvent.h)(0x64C8B61D)
+I (source\tTask.h)(0x64CB9898)
+I (source\tSem.h)(0x64B9587C)
+I (source\tMbox.h)(0x64C61701)
+I (source\tMemBlock.h)(0x64C75056)
+I (source\tFlagGroup.h)(0x64C89989)
+I (source\tMutex.h)(0x64C9CF0E)
+I (source\tTimer.h)(0x64CC8AC5)
+I (source\tHooks.h)(0x64CF17F1)
+F (.\source\tMemBlock.c)(0x64CCB06C)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\tmemblock.o --omf_browse .\objects\tmemblock.crf --depend .\objects\tmemblock.d)
+I (source\tinyOs.h)(0x64CCB7F4)
+I (D:\keilMDK\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (source\tLib.h)(0x64AD2183)
+I (source\tConfig.h)(0x64CCB7F4)
+I (source\tEvent.h)(0x64C8B61D)
+I (source\tTask.h)(0x64CB9898)
+I (source\tSem.h)(0x64B9587C)
+I (source\tMbox.h)(0x64C61701)
+I (source\tMemBlock.h)(0x64C75056)
+I (source\tFlagGroup.h)(0x64C89989)
+I (source\tMutex.h)(0x64C9CF0E)
+I (source\tTimer.h)(0x64CC8AC5)
+I (source\tHooks.h)(0x64CF17F1)
+F (.\source\tFlagGroup.c)(0x64CCAE92)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\tflaggroup.o --omf_browse .\objects\tflaggroup.crf --depend .\objects\tflaggroup.d)
+I (source\tinyOS.h)(0x64CCB7F4)
+I (D:\keilMDK\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (source\tLib.h)(0x64AD2183)
+I (source\tConfig.h)(0x64CCB7F4)
+I (source\tEvent.h)(0x64C8B61D)
+I (source\tTask.h)(0x64CB9898)
+I (source\tSem.h)(0x64B9587C)
+I (source\tMbox.h)(0x64C61701)
+I (source\tMemBlock.h)(0x64C75056)
+I (source\tFlagGroup.h)(0x64C89989)
+I (source\tMutex.h)(0x64C9CF0E)
+I (source\tTimer.h)(0x64CC8AC5)
+I (source\tHooks.h)(0x64CF17F1)
+F (.\source\tMutex.c)(0x64CCAE92)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\tmutex.o --omf_browse .\objects\tmutex.crf --depend .\objects\tmutex.d)
+I (source\tinyOS.h)(0x64CCB7F4)
+I (D:\keilMDK\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (source\tLib.h)(0x64AD2183)
+I (source\tConfig.h)(0x64CCB7F4)
+I (source\tEvent.h)(0x64C8B61D)
+I (source\tTask.h)(0x64CB9898)
+I (source\tSem.h)(0x64B9587C)
+I (source\tMbox.h)(0x64C61701)
+I (source\tMemBlock.h)(0x64C75056)
+I (source\tFlagGroup.h)(0x64C89989)
+I (source\tMutex.h)(0x64C9CF0E)
+I (source\tTimer.h)(0x64CC8AC5)
+I (source\tHooks.h)(0x64CF17F1)
+F (.\source\tTimer.c)(0x64CCB06C)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\ttimer.o --omf_browse .\objects\ttimer.crf --depend .\objects\ttimer.d)
+I (source\tinyOS.h)(0x64CCB7F4)
+I (D:\keilMDK\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (source\tLib.h)(0x64AD2183)
+I (source\tConfig.h)(0x64CCB7F4)
+I (source\tEvent.h)(0x64C8B61D)
+I (source\tTask.h)(0x64CB9898)
+I (source\tSem.h)(0x64B9587C)
+I (source\tMbox.h)(0x64C61701)
+I (source\tMemBlock.h)(0x64C75056)
+I (source\tFlagGroup.h)(0x64C89989)
+I (source\tMutex.h)(0x64C9CF0E)
+I (source\tTimer.h)(0x64CC8AC5)
+I (source\tHooks.h)(0x64CF17F1)
+F (.\source\tHooks.h)(0x64CF17F1)()
+F (.\source\tHooks.c)(0x64CF17F1)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\thooks.o --omf_browse .\objects\thooks.crf --depend .\objects\thooks.d)
+I (source\tHooks.h)(0x64CF17F1)
+I (source\tinyOS.h)(0x64CCB7F4)
+I (D:\keilMDK\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (source\tLib.h)(0x64AD2183)
+I (source\tConfig.h)(0x64CCB7F4)
+I (source\tEvent.h)(0x64C8B61D)
+I (source\tTask.h)(0x64CB9898)
+I (source\tSem.h)(0x64B9587C)
+I (source\tMbox.h)(0x64C61701)
+I (source\tMemBlock.h)(0x64C75056)
+I (source\tFlagGroup.h)(0x64C89989)
+I (source\tMutex.h)(0x64C9CF0E)
+I (source\tTimer.h)(0x64CC8AC5)
+F (RTE\Device\ARMCM3\startup_ARMCM3.s)(0x50B2CC4C)(--cpu Cortex-M3 --li --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include--pd "__UVISION_VERSION SETA 533" --pd "_RTE_ SETA 1" --pd "ARMCM3 SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_armcm3.lst --xref -o .\objects\startup_armcm3.o --depend .\objects\startup_armcm3.d)
+F (RTE\Device\ARMCM3\system_ARMCM3.c)(0x64A8F60F)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-ID:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="533" -D_RTE_ -DARMCM3 -D_RTE_-o .\objects\system_armcm3.o --omf_browse .\objects\system_armcm3.crf --depend .\objects\system_armcm3.d)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x5E8ED12C)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8ED122)
+I (D:\keilMDK\ARM\ARMCC\include\stdint.h)(0x5E8E2EB2)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8ED122)
+I (D:\keilMDK\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x5E8ED12C)

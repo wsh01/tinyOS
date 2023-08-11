@@ -1,0 +1,15 @@
+.\objects\app.o: source\app.c
+.\objects\app.o: source\tinyOS.h
+.\objects\app.o: D:\keilMDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\app.o: source\tLib.h
+.\objects\app.o: source\tConfig.h
+.\objects\app.o: source\tEvent.h
+.\objects\app.o: source\tTask.h
+.\objects\app.o: source\tSem.h
+.\objects\app.o: source\tMbox.h
+.\objects\app.o: source\tMemBlock.h
+.\objects\app.o: source\tFlagGroup.h
+.\objects\app.o: source\tMutex.h
+.\objects\app.o: source\tTimer.h
+.\objects\app.o: source\tHooks.h
+.\objects\app.o: source\tinyOS.h
